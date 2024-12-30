@@ -75,11 +75,12 @@ Aplicar los cambios:
 
 ```Bash
 terraform apply
+```
+
 Confirmar la creación: Introduce "yes" cuando se te solicite.
 
 Destrucción de la Infraestructura
 Para destruir la infraestructura, ejecuta:
-```
 
 ```Bash
 terraform destroy
