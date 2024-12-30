@@ -25,6 +25,7 @@ El proyecto utiliza módulos para una mejor organización y reutilización del c
 │       ├── variables.tf
 │       └── outputs.tf
 ├── main.tf
+├── provider.tf
 └── variables.tf
 ```
 
